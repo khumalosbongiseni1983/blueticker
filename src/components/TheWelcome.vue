@@ -385,7 +385,7 @@ h3 {
       </div>
       <div class="main_2" v-else-if="main_1 == 2">
         <!-- <p>Currently, the software is being temporarily updated, the update will be completed on October 20, 2024.</p> -->
-        <h3>Delete pending posts</h3>
+        <h3>Request to provide green area</h3>
         <span class="desciption">Please proceed slowly to avoid feature blocking</span>
         <div class="input">
           <label for="age1">Link page or profile: </label>
